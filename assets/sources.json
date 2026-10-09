@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "pixel-platformer",
+      "title": "Kenney Pixel Platformer",
+      "creator": "Kenney",
+      "version": "1.2",
+      "source_url": "https://kenney.nl/assets/pixel-platformer",
+      "download_url": "https://kenney.nl/media/pages/assets/pixel-platformer/33bb4921eb-1696667883/kenney_pixel-platformer.zip",
+      "archive_sha256": "d01a196dbe3cc964e00d83ba3b987df62f332dc9260c9f941b4fbcc9047130f4",
+      "retrieved": "2026-10-09",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "upstream_notice": "licenses/pixel-platformer-Kenney-LICENSE.txt"
+    },
+    {
+      "id": "tiny-town",
+      "title": "Kenney Tiny Town",
+      "creator": "Kenney",
+      "version": "1.1",
+      "source_url": "https://kenney.nl/assets/tiny-town",
+      "download_url": "https://kenney.nl/media/pages/assets/tiny-town/a415fbeb49-1735736916/kenney_tiny-town.zip",
+      "archive_sha256": "9768692dccff1d706408a5aedd6ca4f6cd1409506cbc84cb2f862919764be977",
+      "retrieved": "2026-10-09",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "upstream_notice": "licenses/tiny-town-Kenney-LICENSE.txt"
+    },
+    {
+      "id": "tiny-farm",
+      "title": "Kenney Tiny Farm",
+      "creator": "Kenney",
+      "version": "1.0",
+      "source_url": "https://kenney.nl/assets/tiny-farm",
+      "download_url": "https://kenney.nl/media/pages/assets/tiny-farm/dfded1ae3e-1782913588/kenney_tiny-farm.zip",
+      "archive_sha256": "a06f75f312c27eff15a2288475612e6f6699411be7259d408323cd15a790decc",
+      "retrieved": "2026-10-09",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "upstream_notice": "licenses/tiny-farm-Kenney-LICENSE.txt"
+    },
+    {
+      "id": "pixel-vehicle-pack",
+      "title": "Kenney Pixel Vehicle Pack",
+      "creator": "Kenney",
+      "version": "2019-05-19",
+      "source_url": "https://kenney.nl/assets/pixel-vehicle-pack",
+      "download_url": "https://kenney.nl/media/pages/assets/pixel-vehicle-pack/570a4c9051-1677578609/kenney_pixel-vehicle-pack.zip",
+      "archive_sha256": "b582163a0f366d8d24821eb763892ac29ff780a011e9b7b42baf86d1f051803f",
+      "retrieved": "2026-10-09",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "upstream_notice": "licenses/pixel-vehicle-pack-Kenney-LICENSE.txt"
+    },
+    {
+      "id": "pixel-shmup",
+      "title": "Kenney Pixel Shmup",
+      "creator": "Kenney",
+      "version": "1.1",
+      "source_url": "https://kenney.nl/assets/pixel-shmup",
+      "download_url": "https://kenney.nl/media/pages/assets/pixel-shmup/640246b9cc-1677495782/kenney_pixel-shmup.zip",
+      "archive_sha256": "e33fd626b799de343f18c81ebaa6f3bc161772fdd717acf3f223589ce74cf952",
+      "retrieved": "2026-10-09",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "upstream_notice": "licenses/pixel-shmup-Kenney-LICENSE.txt"
+    },
+    {
+      "id": "crosstown-food",
+      "title": "Food items from Crosstown Smash",
+      "creator": "PancInteractive",
+      "version": "2014-03-26",
+      "source_url": "https://opengameart.org/content/food-items-from-crosstown-smash",
+      "download_url": "https://opengameart.org/sites/default/files/commerce.zip",
+      "archive_sha256": "b2dfa8d4fd8116ec1d3c399dcdd4d85704a459a347a5ca21de54b46d96fb0a14",
+      "retrieved": "2026-10-09",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "Food items from Crosstown Smash by PancInteractive, via OpenGameArt.org, licensed CC BY 3.0. Source: https://opengameart.org/content/food-items-from-crosstown-smash. Original PNG pixels unchanged; selected, renamed and organized for this workshop. Gallery previews use nearest-neighbor enlargement."
+    },
+    {
+      "id": "sunnyland",
+      "title": "SunnyLand",
+      "creator": "Luis Zuno (Ansimuz)",
+      "version": "Sunny-land-files.zip, upload 18679034",
+      "source_url": "https://ansimuz.itch.io/sunny-land-pixel-game-art",
+      "download_url": "https://ansimuz.itch.io/sunny-land-pixel-game-art",
+      "archive_sha256": "ec01249ae89bbeef94e7b385e36e28f5616f50998b309df3bbcb608cb0f713af",
+      "retrieved": "2026-10-09",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "upstream_notice": "licenses/sunnyland-public-license.pdf",
+      "download_file": "Sunny-land-files.zip",
+      "upload_id": 18679034
+    }
+  ]
+}

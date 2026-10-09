@@ -103,7 +103,12 @@ sounds, powers, characters, and your own art.
 
 ## Your Adventure Pack
 
-This repository already contains artwork that your AI teammate can use:
+This repository contains artwork that your AI teammate can use. Start with the
+[picture catalog](assets/pixel/README.md): **926 new PNG files** grouped into
+12 categories, with friendly characters, farm animals, food, vehicles, scenery,
+and cartoon obstacles. Every category has previews and clickable filenames.
+
+The original workshop artwork is also ready to use:
 
 ~~~text
 assets/
@@ -265,6 +270,11 @@ Phippy and Friends artwork comes from the
 Pixel artwork was curated from
 [PhippyRescue](https://github.com/Tingsters/PhippyRescue) and
 [PokeTime](https://github.com/Tingsters/PokeTime).
+
+Additional pixel art comes from **Kenney**, **Luis Zuno (Ansimuz)**, and
+**PancInteractive via OpenGameArt.org**. See [artwork credits](assets/CREDITS.md)
+for source links and licenses. Games using the Crosstown Smash food artwork
+must carry its CC BY 3.0 credit; the other new packs are CC0.
 
 The repository is Apache-2.0 licensed. Imported artwork has separate source
 terms documented in [assets/licenses](assets/licenses) and
