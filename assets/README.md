@@ -2,6 +2,20 @@
 
 This folder contains a curated starter set for games made during the Phippy AI Game Workshop. It intentionally avoids copying entire source projects and does not include Pokemon character artwork or third-party RPG sheets with unclear reuse terms.
 
+## Find more game artwork
+
+The [pixel artwork picture catalog](pixel/README.md) adds **926 PNG files** in
+12 easy-to-browse categories: characters, animals, vehicles, ground, plants,
+buildings, food and collectibles, decorations, backgrounds, effects,
+cartoon obstacles, and game symbols.
+
+[![Browse the new artwork categories](previews/overview.png)](pixel/README.md)
+
+Each category has a picture guide, clickable filenames, original pixel sizes,
+and credits. The [animation guide](pixel/ANIMATIONS.md) explains moving characters.
+See [CREDITS.md](CREDITS.md) for all new sources and the food artwork's required
+attribution. The existing Phippy artwork below is also available.
+
 ## Using the artwork in Godot
 
 Godot sees files in this repository through `res://` paths. For example:

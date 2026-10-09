@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "path_base": "assets/pixel/",
+  "animations": [
+    {
+      "name": "fox-dizzy",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-dizzy-frame-01.png",
+        "characters/sunnyland/fox-dizzy-frame-02.png",
+        "characters/sunnyland/fox-dizzy-frame-03.png",
+        "characters/sunnyland/fox-dizzy-frame-04.png",
+        "characters/sunnyland/fox-dizzy-frame-05.png",
+        "characters/sunnyland/fox-dizzy-frame-06.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-dizzy-sheet.png"
+    },
+    {
+      "name": "fox-tumble",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-tumble-frame-01.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-tumble-sheet.png"
+    },
+    {
+      "name": "fox-look-up",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-look-up-frame-01.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-look-up-sheet.png"
+    },
+    {
+      "name": "fox-roll",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-roll-frame-01.png",
+        "characters/sunnyland/fox-roll-frame-02.png",
+        "characters/sunnyland/fox-roll-frame-03.png",
+        "characters/sunnyland/fox-roll-frame-04.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-roll-sheet.png"
+    },
+    {
+      "name": "fox-victory",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-victory-frame-01.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-victory-sheet.png"
+    },
+    {
+      "name": "fox-wall-grab",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-wall-grab-frame-01.png",
+        "characters/sunnyland/fox-wall-grab-frame-02.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-wall-grab-sheet.png"
+    },
+    {
+      "name": "fox-climb",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-climb-frame-01.png",
+        "characters/sunnyland/fox-climb-frame-02.png",
+        "characters/sunnyland/fox-climb-frame-03.png",
+        "characters/sunnyland/fox-climb-frame-04.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-climb-sheet.png"
+    },
+    {
+      "name": "fox-crouch",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-crouch-frame-01.png",
+        "characters/sunnyland/fox-crouch-frame-02.png",
+        "characters/sunnyland/fox-crouch-frame-03.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-crouch-sheet.png"
+    },
+    {
+      "name": "fox-hurt",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-hurt-frame-01.png",
+        "characters/sunnyland/fox-hurt-frame-02.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-hurt-sheet.png"
+    },
+    {
+      "name": "fox-idle",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-idle-frame-01.png",
+        "characters/sunnyland/fox-idle-frame-02.png",
+        "characters/sunnyland/fox-idle-frame-03.png",
+        "characters/sunnyland/fox-idle-frame-04.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-idle-sheet.png"
+    },
+    {
+      "name": "fox-jump",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-jump-frame-01.png",
+        "characters/sunnyland/fox-jump-frame-02.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-jump-sheet.png"
+    },
+    {
+      "name": "fox-run",
+      "source": "sunnyland",
+      "frames": [
+        "characters/sunnyland/fox-run-frame-01.png",
+        "characters/sunnyland/fox-run-frame-02.png",
+        "characters/sunnyland/fox-run-frame-03.png",
+        "characters/sunnyland/fox-run-frame-04.png",
+        "characters/sunnyland/fox-run-frame-05.png",
+        "characters/sunnyland/fox-run-frame-06.png"
+      ],
+      "frame_width": 33,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "characters/sunnyland/fox-run-sheet.png"
+    },
+    {
+      "name": "opossum-run",
+      "source": "sunnyland",
+      "frames": [
+        "animals/sunnyland/opossum-run-frame-01.png",
+        "animals/sunnyland/opossum-run-frame-02.png",
+        "animals/sunnyland/opossum-run-frame-03.png",
+        "animals/sunnyland/opossum-run-frame-04.png",
+        "animals/sunnyland/opossum-run-frame-05.png",
+        "animals/sunnyland/opossum-run-frame-06.png"
+      ],
+      "frame_width": 36,
+      "frame_height": 28,
+      "suggested_fps": 8,
+      "sheet": "animals/sunnyland/opossum-run-sheet.png"
+    },
+    {
+      "name": "eagle-fly",
+      "source": "sunnyland",
+      "frames": [
+        "animals/sunnyland/eagle-fly-frame-01.png",
+        "animals/sunnyland/eagle-fly-frame-02.png",
+        "animals/sunnyland/eagle-fly-frame-03.png",
+        "animals/sunnyland/eagle-fly-frame-04.png"
+      ],
+      "frame_width": 40,
+      "frame_height": 41,
+      "suggested_fps": 8,
+      "sheet": "animals/sunnyland/eagle-fly-sheet.png"
+    },
+    {
+      "name": "frog-idle",
+      "source": "sunnyland",
+      "frames": [
+        "animals/sunnyland/frog-idle-frame-01.png",
+        "animals/sunnyland/frog-idle-frame-02.png",
+        "animals/sunnyland/frog-idle-frame-03.png",
+        "animals/sunnyland/frog-idle-frame-04.png"
+      ],
+      "frame_width": 35,
+      "frame_height": 32,
+      "suggested_fps": 8,
+      "sheet": "animals/sunnyland/frog-idle-sheet.png"
+    },
+    {
+      "name": "frog-jump",
+      "source": "sunnyland",
+      "frames": [
+        "animals/sunnyland/frog-jump-frame-01.png",
+        "animals/sunnyland/frog-jump-frame-02.png"
+      ],
+      "frame_width": 35,
+      "frame_height": 32,
+      "suggested_fps": 8
+    },
+    {
+      "name": "magic-poof",
+      "source": "sunnyland",
+      "frames": [
+        "effects/sunnyland/magic-poof-frame-01.png",
+        "effects/sunnyland/magic-poof-frame-02.png",
+        "effects/sunnyland/magic-poof-frame-03.png",
+        "effects/sunnyland/magic-poof-frame-04.png",
+        "effects/sunnyland/magic-poof-frame-05.png",
+        "effects/sunnyland/magic-poof-frame-06.png"
+      ],
+      "frame_width": 40,
+      "frame_height": 41,
+      "suggested_fps": 8,
+      "sheet": "effects/sunnyland/magic-poof-sheet.png"
+    },
+    {
+      "name": "collect-sparkle",
+      "source": "sunnyland",
+      "frames": [
+        "effects/sunnyland/collect-sparkle-frame-01.png",
+        "effects/sunnyland/collect-sparkle-frame-02.png",
+        "effects/sunnyland/collect-sparkle-frame-03.png",
+        "effects/sunnyland/collect-sparkle-frame-04.png"
+      ],
+      "frame_width": 32,
+      "frame_height": 32,
+      "suggested_fps": 8
+    },
+    {
+      "name": "cherry-spin",
+      "source": "sunnyland",
+      "frames": [
+        "items/sunnyland/cherry-spin-frame-01.png",
+        "items/sunnyland/cherry-spin-frame-02.png",
+        "items/sunnyland/cherry-spin-frame-03.png",
+        "items/sunnyland/cherry-spin-frame-04.png",
+        "items/sunnyland/cherry-spin-frame-05.png",
+        "items/sunnyland/cherry-spin-frame-06.png",
+        "items/sunnyland/cherry-spin-frame-07.png"
+      ],
+      "frame_width": 21,
+      "frame_height": 21,
+      "suggested_fps": 8
+    },
+    {
+      "name": "gem-sparkle",
+      "source": "sunnyland",
+      "frames": [
+        "items/sunnyland/gem-sparkle-frame-01.png",
+        "items/sunnyland/gem-sparkle-frame-02.png",
+        "items/sunnyland/gem-sparkle-frame-03.png",
+        "items/sunnyland/gem-sparkle-frame-04.png",
+        "items/sunnyland/gem-sparkle-frame-05.png"
+      ],
+      "frame_width": 15,
+      "frame_height": 13,
+      "suggested_fps": 8,
+      "sheet": "items/sunnyland/gem-sparkle-sheet.png"
+    }
+  ]
+}

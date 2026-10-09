@@ -33,7 +33,10 @@ Offer the artwork in `assets/` before creating replacements:
 - `assets/cncf-phippy/groups/` has color group pictures.
 - `assets/pixel/phippy-rescue/` has pixel-art characters, pods, carriers, balloons, and an island background.
 - `assets/pixel/poketime/` has reusable player sprites and backgrounds.
+- `assets/pixel/README.md` is a picture catalog of 926 additional PNGs, grouped by category (characters, animals, vehicles, terrain, nature, buildings, items, props, backgrounds, effects, hazards, and UI), then by source pack.
+- `assets/pixel/ANIMATIONS.md` and `assets/pixel/animations.json` document SunnyLand frame order and verified sheet layouts. Use individual frames for the sequences without a verified sheet.
 - `assets/README.md` explains the files, sprite-sheet layouts, sources, and licenses.
+- `assets/CREDITS.md` supplies credits for the new collection. When using food from `assets/pixel/items/crosstown-food/`, include its title, PancInteractive, OpenGameArt.org, source link, and CC BY 3.0 license link in the game's credits. Keep imported artwork under its own license.
 
 In Godot, these paths begin with `res://`, such as `res://assets/pixel/phippy-rescue/phippy.png`.
 
